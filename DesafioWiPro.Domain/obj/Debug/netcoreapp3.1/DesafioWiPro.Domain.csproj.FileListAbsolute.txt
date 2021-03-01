@@ -1,0 +1,12 @@
+C:\Users\fh\source\repos\DesafioWiPro\DesafioWiPro.Domain\bin\Debug\netcoreapp3.1\DesafioWiPro.Domain.deps.json
+C:\Users\fh\source\repos\DesafioWiPro\DesafioWiPro.Domain\bin\Debug\netcoreapp3.1\DesafioWiPro.Domain.dll
+C:\Users\fh\source\repos\DesafioWiPro\DesafioWiPro.Domain\obj\Debug\netcoreapp3.1\DesafioWiPro.Domain.AssemblyInfoInputs.cache
+C:\Users\fh\source\repos\DesafioWiPro\DesafioWiPro.Domain\obj\Debug\netcoreapp3.1\DesafioWiPro.Domain.AssemblyInfo.cs
+C:\Users\fh\source\repos\DesafioWiPro\DesafioWiPro.Domain\bin\Debug\netcoreapp3.1\DesafioWiPro.Domain.pdb
+C:\Users\fh\source\repos\DesafioWiPro\DesafioWiPro.Domain\obj\Debug\netcoreapp3.1\DesafioWiPro.Domain.dll
+C:\Users\fh\source\repos\DesafioWiPro\DesafioWiPro.Domain\obj\Debug\netcoreapp3.1\DesafioWiPro.Domain.pdb
+C:\Users\fh\source\repos\DesafioWiPro\DesafioWiPro.Domain\obj\Debug\netcoreapp3.1\DesafioWiPro.Domain.csprojAssemblyReference.cache
+C:\Users\fh\source\repos\DesafioWiPro\DesafioWiPro.Domain\bin\Debug\netcoreapp3.1\DesafioWiPro.Domain.runtimeconfig.json
+C:\Users\fh\source\repos\DesafioWiPro\DesafioWiPro.Domain\bin\Debug\netcoreapp3.1\DesafioWiPro.Domain.runtimeconfig.dev.json
+C:\Users\fh\source\repos\DesafioWiPro\DesafioWiPro.Domain\obj\Debug\netcoreapp3.1\DesafioWiPro.Domain.genruntimeconfig.cache
+C:\Users\fh\source\repos\DesafioWiPro\DesafioWiPro.Domain\obj\Debug\netcoreapp3.1\DesafioWiPro.Domain.csproj.CoreCompileInputs.cache
