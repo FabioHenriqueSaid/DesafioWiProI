@@ -1,0 +1,31 @@
+1 -  Select 
+ st.dsStatus As Descrição,
+ count(*) As Quantidade
+ from tb_processo  as processo
+   join tb_status as st on st.idStatus = processo.idStatus
+   join tb_andamento as andamento on andamento.idProcesso = processo.idProcesso
+  Group by st.dsStatus
+
+
+2 - select 
+    Processo.nroProcesso, 
+    Andamento.dtAndamento
+	 from tb_Processo As Processo
+       inner join tb_Andamento As Andamento on Andamento.idProcesso = Processo.idProcesso
+      where year(Processo.DtEncerramento) = 2013 
+	  and  Andamento.dtAndamento = 
+	    (
+	        select max(a.dtAndamento) from tb_Processo As p 
+	                       inner join tb_andamento as a on 
+	                         a.idProcesso = p.idProcesso 
+						   where p.nroProcesso = Processo.nroProcesso 
+	    )
+group by Processo.nroProcesso, Andamento.dtAndamento 
+
+3 - 
+
+
+4 -  Select
+   REPLICATE('0', 12 - len (nroProcesso)) + CAST(nroProcesso as varchar(12)) 
+     As nroProcesso 
+  From tb_Processo
